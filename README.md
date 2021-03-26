@@ -1,1 +1,1 @@
-# Binary-Resim-Olu-turmak
+# Binary-Resim-Olusturmak
